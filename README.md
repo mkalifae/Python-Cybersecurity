@@ -1,1 +1,4 @@
 # Python-Cybersecurity
+
+# Most of the modules the you need installed and imported are: smtp, scapy, re, sys, requests, tempfiles, pyinstaller, BeautifulSoup, sockets, netfilterqueu
+# os, base64, json, subprocess, urllib.parse and argparse. Some of these scripts implemente Onject Oriented Programming.
